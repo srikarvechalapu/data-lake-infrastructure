@@ -405,8 +405,8 @@ MIT License
 
 ## Author
 
-[Your Name] - Data Engineer at [Company]
+Srikar Vechalapu
 
 ## Contact
 
-data-engineering@company.com
+vsrikar2025@gmail.com
